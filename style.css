@@ -1,0 +1,69 @@
+#div1{
+    background-color:#9898a986;
+    height: 470px;
+    width: 360px;
+    border-radius: 35px;
+    border: 5px solid rgb(170, 149, 149);
+}
+
+#div2{
+    background-color: aqua;
+    height: 130px;
+    width: 180px;
+    border-radius: 30px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    background-image: url(dall.jpg);
+    background-size: cover;
+    border: 5px solid silver;
+}
+
+#div3{
+    background-color: black;
+    height: 132px;
+    width: 130px;
+    border-radius: 60px;
+    position: relative;
+    left: 195px;
+    top: 1px;
+    background-image:url(chhole.jpg);
+    background-size: contain;
+    border: 5px solid silver;
+}
+
+#div4{
+    background-color: blue;
+    height: 290px;
+    width: 180px;
+    position: relative;
+    top: 140px;
+    right: 203px;
+    border-radius: 25px;
+    background-image: url(rice.jpg);
+    background-size: cover;
+    border: 5px solid silver;
+}
+
+#div5{
+    background-color:greenyellow;
+    height: 132px;
+    width: 130px;
+    border-radius: 60px;
+    position: relative;
+    left: 198px;
+    background-image: url(achar.jpg);
+    border: 5px solid silver;
+}
+
+#div6{
+    background-color: pink;
+    height: 132px;
+    width: 130px;
+    border-radius: 60px;
+    position: relative;
+    top: 145px;
+    border: 5px solid silver;
+    background-image: url(sallad.jpg);
+    background-size: contain;
+}
